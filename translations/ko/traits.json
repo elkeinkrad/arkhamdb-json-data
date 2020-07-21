@@ -1,0 +1,906 @@
+[
+    {
+        "code": "???", 
+        "name": "???"
+    }, 
+    {
+        "code": "Abomination", 
+        "name": "흉물"
+    }, 
+    {
+        "code": "Abyss", 
+        "name": "심연"
+    }, 
+    {
+        "code": "Act 1", 
+        "name": "주요목적 1"
+    }, 
+    {
+        "code": "Act 2", 
+        "name": "주요목적 2"
+    }, 
+    {
+        "code": "Agency", 
+        "name": "요원"
+    }, 
+    {
+        "code": "Ally", 
+        "name": "조력자"
+    }, 
+    {
+        "code": "Altered", 
+        "name": "달라진"
+    }, 
+    {
+        "code": "Ancient", 
+        "name": "고대"
+    }, 
+    {
+        "code": "Ancient One", 
+        "name": "고대의 존재"
+    }, 
+    {
+        "code": "Arkham", 
+        "name": "아컴"
+    }, 
+    {
+        "code": "Arkham Asylum", 
+        "name": "아컴 정신병원"
+    }, 
+    {
+        "code": "Armor", 
+        "name": "방어구"
+    }, 
+    {
+        "code": "Artist", 
+        "name": "예술가"
+    }, 
+    {
+        "code": "Assistant", 
+        "name": "조수"
+    }, 
+    {
+        "code": "Augury", 
+        "name": "예지"
+    }, 
+    {
+        "code": "Avatar", 
+        "name": "화신"
+    }, 
+    {
+        "code": "Basement", 
+        "name": "Basement"
+    }, 
+    {
+        "code": "Bayou", 
+        "name": "늪지대"
+    }, 
+    {
+        "code": "Believer", 
+        "name": "신자"
+    }, 
+    {
+        "code": "Blessed", 
+        "name": "축복받은"
+    }, 
+    {
+        "code": "Blunder", 
+        "name": "실수"
+    }, 
+    {
+        "code": "Boat", 
+        "name": "배"
+    }, 
+    {
+        "code": "Bold", 
+        "name": "대담한"
+    }, 
+    {
+        "code": "Boon", 
+        "name": "이익"
+    }, 
+    {
+        "code": "Bridge", 
+        "name": "다리"
+    }, 
+    {
+        "code": "Brotherhood", 
+        "name": "형제단"
+    }, 
+    {
+        "code": "Byakhee", 
+        "name": "비야키"
+    }, 
+    {
+        "code": "Bystander", 
+        "name": "주변인"
+    }, 
+    {
+        "code": "Cairo", 
+        "name": "카이로"
+    }, 
+    {
+        "code": "Campsite", 
+        "name": "야영지"
+    }, 
+    {
+        "code": "Carnevale", 
+        "name": "사육제"
+    }, 
+    {
+        "code": "Cave", 
+        "name": "동굴"
+    }, 
+    {
+        "code": "Central", 
+        "name": "중심부"
+    }, 
+    {
+        "code": "Charm", 
+        "name": "부적"
+    }, 
+    {
+        "code": "Chosen", 
+        "name": "Chosen"
+    }, 
+    {
+        "code": "Circle", 
+        "name": "Circle"
+    }, 
+    {
+        "code": "City", 
+        "name": "City"
+    }, 
+    {
+        "code": "Civic", 
+        "name": "Civic"
+    }, 
+    {
+        "code": "Clairvoyant", 
+        "name": "선지자"
+    }, 
+    {
+        "code": "Clothing", 
+        "name": "옷"
+    }, 
+    {
+        "code": "Clover Club", 
+        "name": "클로버 클럽"
+    }, 
+    {
+        "code": "Composure", 
+        "name": "침착"
+    }, 
+    {
+        "code": "Condition", 
+        "name": "상태"
+    }, 
+    {
+        "code": "Connection", 
+        "name": "인맥"
+    }, 
+    {
+        "code": "Conspirator", 
+        "name": "음모자"
+    }, 
+    {
+        "code": "Creature", 
+        "name": "생물"
+    }, 
+    {
+        "code": "Crime Scene", 
+        "name": "범죄 현장"
+    }, 
+    {
+        "code": "Criminal", 
+        "name": "범죄자"
+    }, 
+    {
+        "code": "Cultist", 
+        "name": "추종자"
+    }, 
+    {
+        "code": "Curse", 
+        "name": "저주"
+    }, 
+    {
+        "code": "Cursed", 
+        "name": "저주받은"
+    }, 
+    {
+        "code": "Dark Young", 
+        "name": "암흑의 자손"
+    }, 
+    {
+        "code": "Deep One", 
+        "name": "심해인"
+    }, 
+    {
+        "code": "Depths", 
+        "name": "Depths"
+    }, 
+    {
+        "code": "Desert", 
+        "name": "사막"
+    }, 
+    {
+        "code": "Desperate", 
+        "name": "절박함"
+    }, 
+    {
+        "code": "Detective", 
+        "name": "탐정"
+    }, 
+    {
+        "code": "Developed", 
+        "name": "단련된"
+    }, 
+    {
+        "code": "Dhole", 
+        "name": "드홀"
+    }, 
+    {
+        "code": "Distortion", 
+        "name": "왜곡"
+    }, 
+    {
+        "code": "Dreamer", 
+        "name": "꿈꾸는 자"
+    }, 
+    {
+        "code": "Dreamlands", 
+        "name": "몽환의 땅"
+    }, 
+    {
+        "code": "Drifter", 
+        "name": "방랑자"
+    }, 
+    {
+        "code": "Dunwich", 
+        "name": "던위치"
+    }, 
+    {
+        "code": "Eldritch", 
+        "name": "섬뜩한"
+    }, 
+    {
+        "code": "Elite", 
+        "name": "정예"
+    }, 
+    {
+        "code": "Endtimes", 
+        "name": "종말"
+    }, 
+    {
+        "code": "Evidence", 
+        "name": "증거"
+    }, 
+    {
+        "code": "Exhibit", 
+        "name": "전시실"
+    }, 
+    {
+        "code": "Expedition", 
+        "name": "탐사"
+    }, 
+    {
+        "code": "Expert", 
+        "name": "전문화"
+    }, 
+    {
+        "code": "Extradimensional", 
+        "name": "초차원"
+    }, 
+    {
+        "code": "Extraterrestrial", 
+        "name": "외계"
+    }, 
+    {
+        "code": "Eztli", 
+        "name": "에스틀리"
+    }, 
+    {
+        "code": "Familiar", 
+        "name": "Familiar"
+    }, 
+    {
+        "code": "Fated", 
+        "name": "숙명"
+    }, 
+    {
+        "code": "Favor", 
+        "name": "호의"
+    }, 
+    {
+        "code": "Firearm", 
+        "name": "총"
+    }, 
+    {
+        "code": "Flaw", 
+        "name": "결함"
+    }, 
+    {
+        "code": "Flora", 
+        "name": "식물"
+    }, 
+    {
+        "code": "Footwear", 
+        "name": "신발"
+    }, 
+    {
+        "code": "Forbidden", 
+        "name": "Forbidden"
+    }, 
+    {
+        "code": "Forgotten", 
+        "name": "잊힌"
+    }, 
+    {
+        "code": "Fortune", 
+        "name": "행운"
+    }, 
+    {
+        "code": "Future", 
+        "name": "미래"
+    }, 
+    {
+        "code": "Gambit", 
+        "name": "도박수"
+    }, 
+    {
+        "code": "Geist", 
+        "name": "유령"
+    }, 
+    {
+        "code": "Ghast", 
+        "name": "Ghast"
+    }, 
+    {
+        "code": "Ghoul", 
+        "name": "구울"
+    }, 
+    {
+        "code": "Government", 
+        "name": "정부"
+    }, 
+    {
+        "code": "Grant", 
+        "name": "Grant"
+    }, 
+    {
+        "code": "Graveyard", 
+        "name": "Graveyard"
+    }, 
+    {
+        "code": "Ground Floor", 
+        "name": "1층"
+    }, 
+    {
+        "code": "Guest", 
+        "name": "손님"
+    }, 
+    {
+        "code": "Gug", 
+        "name": "구그"
+    }, 
+    {
+        "code": "Hall", 
+        "name": "복도"
+    }, 
+    {
+        "code": "Hazard", 
+        "name": "위기"
+    }, 
+    {
+        "code": "Hex", 
+        "name": "사술"
+    }, 
+    {
+        "code": "Historical Society", 
+        "name": "사학회"
+    }, 
+    {
+        "code": "Human", 
+        "name": "인간형"
+    }, 
+    {
+        "code": "Humanoid", 
+        "name": "인간형"
+    }, 
+    {
+        "code": "Hunter", 
+        "name": "사냥꾼"
+    }, 
+    {
+        "code": "Illicit", 
+        "name": "불법"
+    }, 
+    {
+        "code": "Improvised", 
+        "name": "즉흥"
+    }, 
+    {
+        "code": "Injury", 
+        "name": "부상"
+    }, 
+    {
+        "code": "Innate", 
+        "name": "본성"
+    }, 
+    {
+        "code": "Innocent", 
+        "name": "무고한"
+    }, 
+    {
+        "code": "Insight", 
+        "name": "통찰"
+    }, 
+    {
+        "code": "Instrument", 
+        "name": "악기"
+    }, 
+    {
+        "code": "Item", 
+        "name": "물품"
+    }, 
+    {
+        "code": "Job", 
+        "name": "작업"
+    }, 
+    {
+        "code": "Jungle", 
+        "name": "밀림"
+    }, 
+    {
+        "code": "Kadath", 
+        "name": "Kadath"
+    }, 
+    {
+        "code": "Key", 
+        "name": "열쇠"
+    }, 
+    {
+        "code": "Lead", 
+        "name": "실마리"
+    }, 
+    {
+        "code": "Leng", 
+        "name": "Leng"
+    }, 
+    {
+        "code": "Lodge", 
+        "name": "교단"
+    }, 
+    {
+        "code": "Lunatic", 
+        "name": "광인"
+    }, 
+    {
+        "code": "Madness", 
+        "name": "정신이상"
+    }, 
+    {
+        "code": "Mask", 
+        "name": "가면"
+    }, 
+    {
+        "code": "Medic", 
+        "name": "치료사"
+    }, 
+    {
+        "code": "Melee", 
+        "name": "근접"
+    }, 
+    {
+        "code": "Mexico City", 
+        "name": "멕시코시티"
+    }, 
+    {
+        "code": "Mi-Go", 
+        "name": "미고"
+    }, 
+    {
+        "code": "Miskatonic", 
+        "name": "미스캐토닉"
+    }, 
+    {
+        "code": "Mnar", 
+        "name": "Mnar"
+    }, 
+    {
+        "code": "Monster", 
+        "name": "괴물"
+    }, 
+    {
+        "code": "Mountain", 
+        "name": "Mountain"
+    }, 
+    {
+        "code": "Mystery", 
+        "name": "불가사의"
+    }, 
+    {
+        "code": "New Orleans", 
+        "name": "뉴올리언스"
+    }, 
+    {
+        "code": "Nightgaunt", 
+        "name": "나이트건트"
+    }, 
+    {
+        "code": "Obstacle", 
+        "name": "장애물"
+    }, 
+    {
+        "code": "Occult", 
+        "name": "비술"
+    }, 
+    {
+        "code": "Omen", 
+        "name": "징조"
+    }, 
+    {
+        "code": "Ooth-Nargai", 
+        "name": "Ooth-Nargai"
+    }, 
+    {
+        "code": "Oriab", 
+        "name": "Oriab"
+    }, 
+    {
+        "code": "Otherworld", 
+        "name": "다른 세계"
+    }, 
+    {
+        "code": "Pact", 
+        "name": "계약"
+    }, 
+    {
+        "code": "Paradox", 
+        "name": "역설"
+    }, 
+    {
+        "code": "Paris", 
+        "name": "파리"
+    }, 
+    {
+        "code": "Passageway", 
+        "name": "통로"
+    }, 
+    {
+        "code": "Patron", 
+        "name": "후원가"
+    }, 
+    {
+        "code": "Performer", 
+        "name": "공연자"
+    }, 
+    {
+        "code": "Pnakotus", 
+        "name": "프나코투스"
+    }, 
+    {
+        "code": "Poison", 
+        "name": "독"
+    }, 
+    {
+        "code": "Police", 
+        "name": "경찰"
+    }, 
+    {
+        "code": "Port", 
+        "name": "Port"
+    }, 
+    {
+        "code": "Power", 
+        "name": "권능"
+    }, 
+    {
+        "code": "Practiced", 
+        "name": "숙련"
+    }, 
+    {
+        "code": "Present-Day", 
+        "name": "오늘날"
+    }, 
+    {
+        "code": "Prison", 
+        "name": "감옥"
+    }, 
+    {
+        "code": "Private", 
+        "name": "일반인 출입금지"
+    }, 
+    {
+        "code": "Rail", 
+        "name": "철로"
+    }, 
+    {
+        "code": "Ranged", 
+        "name": "원거리"
+    }, 
+    {
+        "code": "Relic", 
+        "name": "유물"
+    }, 
+    {
+        "code": "Reporter", 
+        "name": "기자"
+    }, 
+    {
+        "code": "Research", 
+        "name": "연구"
+    }, 
+    {
+        "code": "Return", 
+        "name": "Return"
+    }, 
+    {
+        "code": "Ritual", 
+        "name": "의식"
+    }, 
+    {
+        "code": "River", 
+        "name": "River"
+    }, 
+    {
+        "code": "Riverside", 
+        "name": "강변"
+    }, 
+    {
+        "code": "Ruins", 
+        "name": "유적"
+    }, 
+    {
+        "code": "Salem", 
+        "name": "Salem"
+    }, 
+    {
+        "code": "Sanctum", 
+        "name": "Sanctum"
+    }, 
+    {
+        "code": "Scheme", 
+        "name": "모략"
+    }, 
+    {
+        "code": "Scholar", 
+        "name": "학자"
+    }, 
+    {
+        "code": "Science", 
+        "name": "과학"
+    }, 
+    {
+        "code": "Script", 
+        "name": "글귀"
+    }, 
+    {
+        "code": "Second Floor", 
+        "name": "2층"
+    }, 
+    {
+        "code": "Sentinel Hill", 
+        "name": "파수꾼 언덕"
+    }, 
+    {
+        "code": "Serpent", 
+        "name": "뱀"
+    }, 
+    {
+        "code": "Service", 
+        "name": "서비스"
+    }, 
+    {
+        "code": "Servitor", 
+        "name": "시종"
+    }, 
+    {
+        "code": "Shantak", 
+        "name": "샨타크"
+    }, 
+    {
+        "code": "Shattered", 
+        "name": "산산조각난"
+    }, 
+    {
+        "code": "Ship", 
+        "name": "Ship"
+    }, 
+    {
+        "code": "Shoggoth", 
+        "name": "쇼고스"
+    }, 
+    {
+        "code": "Silver Twilight", 
+        "name": "은빛 황혼회"
+    }, 
+    {
+        "code": "Skai", 
+        "name": "Skai"
+    }, 
+    {
+        "code": "Socialite", 
+        "name": "유명인사"
+    }, 
+    {
+        "code": "Song", 
+        "name": "노래"
+    }, 
+    {
+        "code": "Sorcerer", 
+        "name": "주술사"
+    }, 
+    {
+        "code": "Spectral", 
+        "name": "Spectral"
+    }, 
+    {
+        "code": "Spell", 
+        "name": "마법"
+    }, 
+    {
+        "code": "Spider", 
+        "name": "Spider"
+    }, 
+    {
+        "code": "Spirit", 
+        "name": "영혼"
+    }, 
+    {
+        "code": "St Mary's", 
+        "name": "St Mary's"
+    }, 
+    {
+        "code": "Staff", 
+        "name": "직원"
+    }, 
+    {
+        "code": "Steps", 
+        "name": "Steps"
+    }, 
+    {
+        "code": "Summon", 
+        "name": "소환"
+    }, 
+    {
+        "code": "Supply", 
+        "name": "보급"
+    }, 
+    {
+        "code": "Surface", 
+        "name": "Surface"
+    }, 
+    {
+        "code": "Syndicate", 
+        "name": "신디케이트"
+    }, 
+    {
+        "code": "Tactic", 
+        "name": "전술"
+    }, 
+    {
+        "code": "Talent", 
+        "name": "재능"
+    }, 
+    {
+        "code": "Tarot", 
+        "name": "타로"
+    }, 
+    {
+        "code": "Task", 
+        "name": "과업"
+    }, 
+    {
+        "code": "Temple", 
+        "name": "Temple"
+    }, 
+    {
+        "code": "Tenochtitlán", 
+        "name": "테노치티틀란"
+    }, 
+    {
+        "code": "Tentacle", 
+        "name": "촉수"
+    }, 
+    {
+        "code": "Terror", 
+        "name": "두려움"
+    }, 
+    {
+        "code": "Third Floor", 
+        "name": "3층"
+    }, 
+    {
+        "code": "Tindalos", 
+        "name": "틴달로스"
+    }, 
+    {
+        "code": "Tome", 
+        "name": "서적"
+    }, 
+    {
+        "code": "Tool", 
+        "name": "도구"
+    }, 
+    {
+        "code": "Train", 
+        "name": "열차"
+    }, 
+    {
+        "code": "Trap", 
+        "name": "함정"
+    }, 
+    {
+        "code": "Trick", 
+        "name": "속임수"
+    }, 
+    {
+        "code": "Unhallowed", 
+        "name": "부정한 땅"
+    }, 
+    {
+        "code": "Upgrade", 
+        "name": "향상"
+    }, 
+    {
+        "code": "Vale", 
+        "name": "Vale"
+    }, 
+    {
+        "code": "Venice", 
+        "name": "베네치아"
+    }, 
+    {
+        "code": "Veteran", 
+        "name": "참전용사"
+    }, 
+    {
+        "code": "Void", 
+        "name": "Void"
+    }, 
+    {
+        "code": "Warden", 
+        "name": "파수꾼"
+    }, 
+    {
+        "code": "Wastes", 
+        "name": "Wastes"
+    }, 
+    {
+        "code": "Wayfarer", 
+        "name": "여행자"
+    }, 
+    {
+        "code": "Weapon", 
+        "name": "무기"
+    }, 
+    {
+        "code": "Wilderness", 
+        "name": "험지"
+    }, 
+    {
+        "code": "Witch", 
+        "name": "마녀"
+    }, 
+    {
+        "code": "Witch House", 
+        "name": "Witch House"
+    }, 
+    {
+        "code": "Woods", 
+        "name": "숲"
+    }, 
+    {
+        "code": "Yithian", 
+        "name": "이스인"
+    }, 
+    {
+        "code": "Yoth", 
+        "name": "요스"
+    }, 
+    {
+        "code": "Zoog", 
+        "name": "Zoog"
+    }
+]
