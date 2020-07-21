@@ -1,4 +1,13 @@
 #!/usr/bin/env python
+"""script for trait auto-updating for translation files
+
+From this scripts...
+
+  * generate traits.json for traits translation (placeholder & translation)
+  * convert traits in translation json based on translated traits
+  * traits.json <--> traits.txt conversion (not in main)
+
+"""
 
 from __future__ import unicode_literals
 import os
@@ -113,6 +122,13 @@ def update_placeholder(code):
         fp.write(string)
 
 def update_traits(code, cycles=None, no_overwrite=True):
+    """traits update from translated json file & traits.json
+
+    Args:
+        code (str): language code
+        cycles (List[str], optional): cycles for update. Defaults to None(all).
+        no_overwrite (bool, optional): whether overwrite pre-translated or not. Defaults to True(no overwrite).
+    """
     with io.open('%s/%s/%s'%(TRANSLATION_PATH, code, TRAITS_FILENAME), encoding='utf-8') as fp:
         data = json.load(fp, object_pairs_hook=OrderedDict)
     traits_map = {}
@@ -194,7 +210,26 @@ def txt2json(path_json, path_text):
         string = json.dumps(data, ensure_ascii=False, indent=4)
         fp.write(string)
 
+def get_language_list():
+    """get list of translation language
+
+    Returns:
+        List[str]: translation files
+    """
+    return [
+        x for x in os.listdir(TRANSLATION_PATH)
+        if len(x) == 2 and os.path.isdir(
+            os.path.join(TRANSLATION_PATH, x)
+        )
+    ]
+
 def main():
+    """main function -- ko language example
+
+    make_placeholder: make english traits placeholder (traits.json)
+    update_placeholder: update placeholder for given language
+    update_traits: update json for translated files
+    """
     make_placeholder()
     update_placeholder('ko')
     update_traits('ko')
