@@ -1,0 +1,906 @@
+[
+    {
+        "code": "???", 
+        "name": "???"
+    }, 
+    {
+        "code": "Abomination", 
+        "name": "Abomination"
+    }, 
+    {
+        "code": "Abyss", 
+        "name": "Abyss"
+    }, 
+    {
+        "code": "Act 1", 
+        "name": "Act 1"
+    }, 
+    {
+        "code": "Act 2", 
+        "name": "Act 2"
+    }, 
+    {
+        "code": "Agency", 
+        "name": "Agency"
+    }, 
+    {
+        "code": "Ally", 
+        "name": "Ally"
+    }, 
+    {
+        "code": "Altered", 
+        "name": "Altered"
+    }, 
+    {
+        "code": "Ancient", 
+        "name": "Ancient"
+    }, 
+    {
+        "code": "Ancient One", 
+        "name": "Ancient One"
+    }, 
+    {
+        "code": "Arkham", 
+        "name": "Arkham"
+    }, 
+    {
+        "code": "Arkham Asylum", 
+        "name": "Arkham Asylum"
+    }, 
+    {
+        "code": "Armor", 
+        "name": "Armor"
+    }, 
+    {
+        "code": "Artist", 
+        "name": "Artist"
+    }, 
+    {
+        "code": "Assistant", 
+        "name": "Assistant"
+    }, 
+    {
+        "code": "Augury", 
+        "name": "Augury"
+    }, 
+    {
+        "code": "Avatar", 
+        "name": "Avatar"
+    }, 
+    {
+        "code": "Basement", 
+        "name": "Basement"
+    }, 
+    {
+        "code": "Bayou", 
+        "name": "Bayou"
+    }, 
+    {
+        "code": "Believer", 
+        "name": "Believer"
+    }, 
+    {
+        "code": "Blessed", 
+        "name": "Blessed"
+    }, 
+    {
+        "code": "Blunder", 
+        "name": "Blunder"
+    }, 
+    {
+        "code": "Boat", 
+        "name": "Boat"
+    }, 
+    {
+        "code": "Bold", 
+        "name": "Bold"
+    }, 
+    {
+        "code": "Boon", 
+        "name": "Boon"
+    }, 
+    {
+        "code": "Bridge", 
+        "name": "Bridge"
+    }, 
+    {
+        "code": "Brotherhood", 
+        "name": "Brotherhood"
+    }, 
+    {
+        "code": "Byakhee", 
+        "name": "Byakhee"
+    }, 
+    {
+        "code": "Bystander", 
+        "name": "Bystander"
+    }, 
+    {
+        "code": "Cairo", 
+        "name": "Cairo"
+    }, 
+    {
+        "code": "Campsite", 
+        "name": "Campsite"
+    }, 
+    {
+        "code": "Carnevale", 
+        "name": "Carnevale"
+    }, 
+    {
+        "code": "Cave", 
+        "name": "Cave"
+    }, 
+    {
+        "code": "Central", 
+        "name": "Central"
+    }, 
+    {
+        "code": "Charm", 
+        "name": "Charm"
+    }, 
+    {
+        "code": "Chosen", 
+        "name": "Chosen"
+    }, 
+    {
+        "code": "Circle", 
+        "name": "Circle"
+    }, 
+    {
+        "code": "City", 
+        "name": "City"
+    }, 
+    {
+        "code": "Civic", 
+        "name": "Civic"
+    }, 
+    {
+        "code": "Clairvoyant", 
+        "name": "Clairvoyant"
+    }, 
+    {
+        "code": "Clothing", 
+        "name": "Clothing"
+    }, 
+    {
+        "code": "Clover Club", 
+        "name": "Clover Club"
+    }, 
+    {
+        "code": "Composure", 
+        "name": "Composure"
+    }, 
+    {
+        "code": "Condition", 
+        "name": "Condition"
+    }, 
+    {
+        "code": "Connection", 
+        "name": "Connection"
+    }, 
+    {
+        "code": "Conspirator", 
+        "name": "Conspirator"
+    }, 
+    {
+        "code": "Creature", 
+        "name": "Creature"
+    }, 
+    {
+        "code": "Crime Scene", 
+        "name": "Crime Scene"
+    }, 
+    {
+        "code": "Criminal", 
+        "name": "Criminal"
+    }, 
+    {
+        "code": "Cultist", 
+        "name": "Cultist"
+    }, 
+    {
+        "code": "Curse", 
+        "name": "Curse"
+    }, 
+    {
+        "code": "Cursed", 
+        "name": "Cursed"
+    }, 
+    {
+        "code": "Dark Young", 
+        "name": "Dark Young"
+    }, 
+    {
+        "code": "Deep One", 
+        "name": "Deep One"
+    }, 
+    {
+        "code": "Depths", 
+        "name": "Depths"
+    }, 
+    {
+        "code": "Desert", 
+        "name": "Desert"
+    }, 
+    {
+        "code": "Desperate", 
+        "name": "Desperate"
+    }, 
+    {
+        "code": "Detective", 
+        "name": "Detective"
+    }, 
+    {
+        "code": "Developed", 
+        "name": "Developed"
+    }, 
+    {
+        "code": "Dhole", 
+        "name": "Dhole"
+    }, 
+    {
+        "code": "Distortion", 
+        "name": "Distortion"
+    }, 
+    {
+        "code": "Dreamer", 
+        "name": "Dreamer"
+    }, 
+    {
+        "code": "Dreamlands", 
+        "name": "Dreamlands"
+    }, 
+    {
+        "code": "Drifter", 
+        "name": "Drifter"
+    }, 
+    {
+        "code": "Dunwich", 
+        "name": "Dunwich"
+    }, 
+    {
+        "code": "Eldritch", 
+        "name": "Eldritch"
+    }, 
+    {
+        "code": "Elite", 
+        "name": "Elite"
+    }, 
+    {
+        "code": "Endtimes", 
+        "name": "Endtimes"
+    }, 
+    {
+        "code": "Evidence", 
+        "name": "Evidence"
+    }, 
+    {
+        "code": "Exhibit", 
+        "name": "Exhibit"
+    }, 
+    {
+        "code": "Expedition", 
+        "name": "Expedition"
+    }, 
+    {
+        "code": "Expert", 
+        "name": "Expert"
+    }, 
+    {
+        "code": "Extradimensional", 
+        "name": "Extradimensional"
+    }, 
+    {
+        "code": "Extraterrestrial", 
+        "name": "Extraterrestrial"
+    }, 
+    {
+        "code": "Eztli", 
+        "name": "Eztli"
+    }, 
+    {
+        "code": "Familiar", 
+        "name": "Familiar"
+    }, 
+    {
+        "code": "Fated", 
+        "name": "Fated"
+    }, 
+    {
+        "code": "Favor", 
+        "name": "Favor"
+    }, 
+    {
+        "code": "Firearm", 
+        "name": "Firearm"
+    }, 
+    {
+        "code": "Flaw", 
+        "name": "Flaw"
+    }, 
+    {
+        "code": "Flora", 
+        "name": "Flora"
+    }, 
+    {
+        "code": "Footwear", 
+        "name": "Footwear"
+    }, 
+    {
+        "code": "Forbidden", 
+        "name": "Forbidden"
+    }, 
+    {
+        "code": "Forgotten", 
+        "name": "Forgotten"
+    }, 
+    {
+        "code": "Fortune", 
+        "name": "Fortune"
+    }, 
+    {
+        "code": "Future", 
+        "name": "Future"
+    }, 
+    {
+        "code": "Gambit", 
+        "name": "Gambit"
+    }, 
+    {
+        "code": "Geist", 
+        "name": "Geist"
+    }, 
+    {
+        "code": "Ghast", 
+        "name": "Ghast"
+    }, 
+    {
+        "code": "Ghoul", 
+        "name": "Ghoul"
+    }, 
+    {
+        "code": "Government", 
+        "name": "Government"
+    }, 
+    {
+        "code": "Grant", 
+        "name": "Grant"
+    }, 
+    {
+        "code": "Graveyard", 
+        "name": "Graveyard"
+    }, 
+    {
+        "code": "Ground Floor", 
+        "name": "Ground Floor"
+    }, 
+    {
+        "code": "Guest", 
+        "name": "Guest"
+    }, 
+    {
+        "code": "Gug", 
+        "name": "Gug"
+    }, 
+    {
+        "code": "Hall", 
+        "name": "Hall"
+    }, 
+    {
+        "code": "Hazard", 
+        "name": "Hazard"
+    }, 
+    {
+        "code": "Hex", 
+        "name": "Hex"
+    }, 
+    {
+        "code": "Historical Society", 
+        "name": "Historical Society"
+    }, 
+    {
+        "code": "Human", 
+        "name": "Human"
+    }, 
+    {
+        "code": "Humanoid", 
+        "name": "Humanoid"
+    }, 
+    {
+        "code": "Hunter", 
+        "name": "Hunter"
+    }, 
+    {
+        "code": "Illicit", 
+        "name": "Illicit"
+    }, 
+    {
+        "code": "Improvised", 
+        "name": "Improvised"
+    }, 
+    {
+        "code": "Injury", 
+        "name": "Injury"
+    }, 
+    {
+        "code": "Innate", 
+        "name": "Innate"
+    }, 
+    {
+        "code": "Innocent", 
+        "name": "Innocent"
+    }, 
+    {
+        "code": "Insight", 
+        "name": "Insight"
+    }, 
+    {
+        "code": "Instrument", 
+        "name": "Instrument"
+    }, 
+    {
+        "code": "Item", 
+        "name": "Item"
+    }, 
+    {
+        "code": "Job", 
+        "name": "Job"
+    }, 
+    {
+        "code": "Jungle", 
+        "name": "Jungle"
+    }, 
+    {
+        "code": "Kadath", 
+        "name": "Kadath"
+    }, 
+    {
+        "code": "Key", 
+        "name": "Key"
+    }, 
+    {
+        "code": "Lead", 
+        "name": "Lead"
+    }, 
+    {
+        "code": "Leng", 
+        "name": "Leng"
+    }, 
+    {
+        "code": "Lodge", 
+        "name": "Lodge"
+    }, 
+    {
+        "code": "Lunatic", 
+        "name": "Lunatic"
+    }, 
+    {
+        "code": "Madness", 
+        "name": "Madness"
+    }, 
+    {
+        "code": "Mask", 
+        "name": "Mask"
+    }, 
+    {
+        "code": "Medic", 
+        "name": "Medic"
+    }, 
+    {
+        "code": "Melee", 
+        "name": "Melee"
+    }, 
+    {
+        "code": "Mexico City", 
+        "name": "Mexico City"
+    }, 
+    {
+        "code": "Mi-Go", 
+        "name": "Mi-Go"
+    }, 
+    {
+        "code": "Miskatonic", 
+        "name": "Miskatonic"
+    }, 
+    {
+        "code": "Mnar", 
+        "name": "Mnar"
+    }, 
+    {
+        "code": "Monster", 
+        "name": "Monster"
+    }, 
+    {
+        "code": "Mountain", 
+        "name": "Mountain"
+    }, 
+    {
+        "code": "Mystery", 
+        "name": "Mystery"
+    }, 
+    {
+        "code": "New Orleans", 
+        "name": "New Orleans"
+    }, 
+    {
+        "code": "Nightgaunt", 
+        "name": "Nightgaunt"
+    }, 
+    {
+        "code": "Obstacle", 
+        "name": "Obstacle"
+    }, 
+    {
+        "code": "Occult", 
+        "name": "Occult"
+    }, 
+    {
+        "code": "Omen", 
+        "name": "Omen"
+    }, 
+    {
+        "code": "Ooth-Nargai", 
+        "name": "Ooth-Nargai"
+    }, 
+    {
+        "code": "Oriab", 
+        "name": "Oriab"
+    }, 
+    {
+        "code": "Otherworld", 
+        "name": "Otherworld"
+    }, 
+    {
+        "code": "Pact", 
+        "name": "Pact"
+    }, 
+    {
+        "code": "Paradox", 
+        "name": "Paradox"
+    }, 
+    {
+        "code": "Paris", 
+        "name": "Paris"
+    }, 
+    {
+        "code": "Passageway", 
+        "name": "Passageway"
+    }, 
+    {
+        "code": "Patron", 
+        "name": "Patron"
+    }, 
+    {
+        "code": "Performer", 
+        "name": "Performer"
+    }, 
+    {
+        "code": "Pnakotus", 
+        "name": "Pnakotus"
+    }, 
+    {
+        "code": "Poison", 
+        "name": "Poison"
+    }, 
+    {
+        "code": "Police", 
+        "name": "Police"
+    }, 
+    {
+        "code": "Port", 
+        "name": "Port"
+    }, 
+    {
+        "code": "Power", 
+        "name": "Power"
+    }, 
+    {
+        "code": "Practiced", 
+        "name": "Practiced"
+    }, 
+    {
+        "code": "Present-Day", 
+        "name": "Present-Day"
+    }, 
+    {
+        "code": "Prison", 
+        "name": "Prison"
+    }, 
+    {
+        "code": "Private", 
+        "name": "Private"
+    }, 
+    {
+        "code": "Rail", 
+        "name": "Rail"
+    }, 
+    {
+        "code": "Ranged", 
+        "name": "Ranged"
+    }, 
+    {
+        "code": "Relic", 
+        "name": "Relic"
+    }, 
+    {
+        "code": "Reporter", 
+        "name": "Reporter"
+    }, 
+    {
+        "code": "Research", 
+        "name": "Research"
+    }, 
+    {
+        "code": "Return", 
+        "name": "Return"
+    }, 
+    {
+        "code": "Ritual", 
+        "name": "Ritual"
+    }, 
+    {
+        "code": "River", 
+        "name": "River"
+    }, 
+    {
+        "code": "Riverside", 
+        "name": "Riverside"
+    }, 
+    {
+        "code": "Ruins", 
+        "name": "Ruins"
+    }, 
+    {
+        "code": "Salem", 
+        "name": "Salem"
+    }, 
+    {
+        "code": "Sanctum", 
+        "name": "Sanctum"
+    }, 
+    {
+        "code": "Scheme", 
+        "name": "Scheme"
+    }, 
+    {
+        "code": "Scholar", 
+        "name": "Scholar"
+    }, 
+    {
+        "code": "Science", 
+        "name": "Science"
+    }, 
+    {
+        "code": "Script", 
+        "name": "Script"
+    }, 
+    {
+        "code": "Second Floor", 
+        "name": "Second Floor"
+    }, 
+    {
+        "code": "Sentinel Hill", 
+        "name": "Sentinel Hill"
+    }, 
+    {
+        "code": "Serpent", 
+        "name": "Serpent"
+    }, 
+    {
+        "code": "Service", 
+        "name": "Service"
+    }, 
+    {
+        "code": "Servitor", 
+        "name": "Servitor"
+    }, 
+    {
+        "code": "Shantak", 
+        "name": "Shantak"
+    }, 
+    {
+        "code": "Shattered", 
+        "name": "Shattered"
+    }, 
+    {
+        "code": "Ship", 
+        "name": "Ship"
+    }, 
+    {
+        "code": "Shoggoth", 
+        "name": "Shoggoth"
+    }, 
+    {
+        "code": "Silver Twilight", 
+        "name": "Silver Twilight"
+    }, 
+    {
+        "code": "Skai", 
+        "name": "Skai"
+    }, 
+    {
+        "code": "Socialite", 
+        "name": "Socialite"
+    }, 
+    {
+        "code": "Song", 
+        "name": "Song"
+    }, 
+    {
+        "code": "Sorcerer", 
+        "name": "Sorcerer"
+    }, 
+    {
+        "code": "Spectral", 
+        "name": "Spectral"
+    }, 
+    {
+        "code": "Spell", 
+        "name": "Spell"
+    }, 
+    {
+        "code": "Spider", 
+        "name": "Spider"
+    }, 
+    {
+        "code": "Spirit", 
+        "name": "Spirit"
+    }, 
+    {
+        "code": "St Mary's", 
+        "name": "St Mary's"
+    }, 
+    {
+        "code": "Staff", 
+        "name": "Staff"
+    }, 
+    {
+        "code": "Steps", 
+        "name": "Steps"
+    }, 
+    {
+        "code": "Summon", 
+        "name": "Summon"
+    }, 
+    {
+        "code": "Supply", 
+        "name": "Supply"
+    }, 
+    {
+        "code": "Surface", 
+        "name": "Surface"
+    }, 
+    {
+        "code": "Syndicate", 
+        "name": "Syndicate"
+    }, 
+    {
+        "code": "Tactic", 
+        "name": "Tactic"
+    }, 
+    {
+        "code": "Talent", 
+        "name": "Talent"
+    }, 
+    {
+        "code": "Tarot", 
+        "name": "Tarot"
+    }, 
+    {
+        "code": "Task", 
+        "name": "Task"
+    }, 
+    {
+        "code": "Temple", 
+        "name": "Temple"
+    }, 
+    {
+        "code": "Tenochtitlán", 
+        "name": "Tenochtitlán"
+    }, 
+    {
+        "code": "Tentacle", 
+        "name": "Tentacle"
+    }, 
+    {
+        "code": "Terror", 
+        "name": "Terror"
+    }, 
+    {
+        "code": "Third Floor", 
+        "name": "Third Floor"
+    }, 
+    {
+        "code": "Tindalos", 
+        "name": "Tindalos"
+    }, 
+    {
+        "code": "Tome", 
+        "name": "Tome"
+    }, 
+    {
+        "code": "Tool", 
+        "name": "Tool"
+    }, 
+    {
+        "code": "Train", 
+        "name": "Train"
+    }, 
+    {
+        "code": "Trap", 
+        "name": "Trap"
+    }, 
+    {
+        "code": "Trick", 
+        "name": "Trick"
+    }, 
+    {
+        "code": "Unhallowed", 
+        "name": "Unhallowed"
+    }, 
+    {
+        "code": "Upgrade", 
+        "name": "Upgrade"
+    }, 
+    {
+        "code": "Vale", 
+        "name": "Vale"
+    }, 
+    {
+        "code": "Venice", 
+        "name": "Venice"
+    }, 
+    {
+        "code": "Veteran", 
+        "name": "Veteran"
+    }, 
+    {
+        "code": "Void", 
+        "name": "Void"
+    }, 
+    {
+        "code": "Warden", 
+        "name": "Warden"
+    }, 
+    {
+        "code": "Wastes", 
+        "name": "Wastes"
+    }, 
+    {
+        "code": "Wayfarer", 
+        "name": "Wayfarer"
+    }, 
+    {
+        "code": "Weapon", 
+        "name": "Weapon"
+    }, 
+    {
+        "code": "Wilderness", 
+        "name": "Wilderness"
+    }, 
+    {
+        "code": "Witch", 
+        "name": "Witch"
+    }, 
+    {
+        "code": "Witch House", 
+        "name": "Witch House"
+    }, 
+    {
+        "code": "Woods", 
+        "name": "Woods"
+    }, 
+    {
+        "code": "Yithian", 
+        "name": "Yithian"
+    }, 
+    {
+        "code": "Yoth", 
+        "name": "Yoth"
+    }, 
+    {
+        "code": "Zoog", 
+        "name": "Zoog"
+    }
+]
