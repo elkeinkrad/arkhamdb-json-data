@@ -77,8 +77,7 @@
             {
                 "faction": ["seeker", "survivor"],
                 "level": { "min": 0, "max": 0 },
-                "limit": 5,
-                "error": "You cannot have more than 5 Seeker and/or Survivor cards"
+                "limit": 5
             }
         ],
         "deck_requirements": "size:30, card:04010, card:04011, card:04012, random:subtype:basicweakness",
