@@ -1,7 +1,7 @@
 [
     {
         "code": "aof",
-        "name": "Aura of Faith"
+        "name": "신념의 오라"
     },
     {
         "code": "aon",
@@ -76,6 +76,10 @@
         "name": "던위치의 유산"
     },
     {
+        "code": "enc",
+        "name": "매혹적인 앙코르"
+    },
+    {
         "code": "eoec",
         "name": "지구의 끝자락 캠페인 확장"
     },
@@ -98,6 +102,10 @@
     {
         "code": "fhvp",
         "name": "햄록 베일의 축일 조사자 확장"
+    },
+    {
+        "code": "film_fatale",
+        "name": "Film Fatale"
     },
     {
         "code": "fof",
@@ -185,7 +193,7 @@
     },
     {
         "code": "pap",
-        "name": "Pistols and Pearls"
+        "name": "권총과 진주"
     },
     {
         "code": "pnr",
