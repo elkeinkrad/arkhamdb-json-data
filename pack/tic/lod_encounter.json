@@ -121,7 +121,7 @@
         "code": "07280",
         "double_sided": true,
         "encounter_code": "the_lair_of_dagon",
-        "encounter_position": 6,
+        "encounter_position": 7,
         "faction_code": "mythos",
         "flavor": "\"We all hed to take the Oath o' Dagon, an' later on they was secon' an' third Oaths that some of us took.\" - H. P. Lovecraft, <u>The Shadow over Innsmouth</u>",
         "illustrator": "Romana Kendelic",
@@ -334,7 +334,7 @@
         "position": 290,
         "quantity": 1,
         "shroud": 5,
-        "text": "<b>Forced</b> - After Doorway to the Depths is revealed: Place the set-aside green key on the location with the most clues.\n[action] Investigators at the Doorway to the Depths spend the green key and 3 [per_investigator] clues, as a group: Remember that you have \"unlocked the final depths\".",
+        "text": "<b>Forced</b> - After Doorway to the Depths is revealed: Place the set-aside green key on the location with the most clues.\n[action] Investigators at the Doorway to the Depths spend the green key and 3 [per_investigator] clues, as a group: Remember that you have \"unlocked the final depths.\"",
         "traits": "Cave.",
         "type_code": "location"
     },

@@ -35,6 +35,7 @@
     },
     {
         "back_flavor": "You’ve been investigating the strange events occurring in Arkham for several months now. Your desk is covered in newspaper articles, police reports, and witness accounts.",
+        "back_subname": "Aberrant Gateway",
         "clues": 1,
         "code": "50013",
         "double_sided": true,
@@ -252,7 +253,7 @@
     {
         "code": "50024",
         "encounter_code": "return_to_the_gathering",
-        "encounter_position": 15,
+        "encounter_position": 14,
         "faction_code": "mythos",
         "flavor": "The third seal will be the last.",
         "illustrator": "Greg Bobrowski",

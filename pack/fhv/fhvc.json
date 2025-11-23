@@ -446,7 +446,7 @@
     "position": 22,
     "quantity": 1,
     "subname": "Alien Meteorite",
-    "text": "Uses (4 brilliance).\n[reaction] When a scenario card effect would discard any number of cards from your hand, exhaust Prismatic Shard and spend 1 brilliance: Ignore that effect and draw that many cards, instead.",
+    "text": "Uses (4 brilliance).\n[reaction] When a scenario card or weakness card effect would discard any number of cards from your hand, exhaust Prismatic Shard and spend 1 brilliance: Ignore that effect and draw that many cards, instead.",
     "traits": "Item. Relic. Colour.",
     "type_code": "asset"
   },
@@ -1779,7 +1779,7 @@
     "quantity": 1,
     "shroud": 3,
     "text": "<b>Forced</b> - After you fail a skill test while attempting to evade at Weed-Choked Beach: Lose 1 action.\n<b>Forced</b> - When you would leave Weed-Choked Beach: Reveal a chaos token. If a [skull], [tablet], [elder_thing], or [auto_fail] is revealed, you must either cancel the effects of the move or discard an [[Item]] asset you control.",
-    "traits": "Coastal.",
+    "traits": "Coastal. Cave.",
     "type_code": "location"
   },
   {
@@ -2876,7 +2876,7 @@
     "pack_code": "fhvc",
     "position": 125,
     "quantity": 4,
-    "text": "Hunter. Alert.\nX is the current darkness level.\n<b>Prey</b> Investigator with the Vale Lantern only.\n<b>Forced</b> - After Stalking Hybrid attacks you, if you control the Vale Lantern: Flip the Vale Lantern to its [[Unlit]] side and place it at your location.",
+    "text": "Hunter. Alert.\nX is the current darkness level.\n<b>Prey</b> - Investigator with the Vale Lantern only.\n<b>Forced</b> - After Stalking Hybrid attacks you, if you control the Vale Lantern: Flip the Vale Lantern to its [[Unlit]] side and place it at your location.",
     "traits": "Creature. Monster. Mutated.",
     "type_code": "enemy"
   },
@@ -4780,7 +4780,7 @@
     "skill_intellect": 1,
     "skill_wild": 1,
     "subname": "Best in Her Field",
-    "text": "While you control Dr. Rosa Marquez, you get +1 [intellect] and +1 [agility].\n[reaction] After you discover the last clue at your location <b>([codex] Θ).</b>",
+    "text": "While you control Dr. Rosa Marquez, you get +1 [intellect] and +1 [agility].\n[reaction] After you discover the last clue at your location: <b>([codex] Θ).</b>",
     "traits": "Ally. Miskatonic. Wayfarer.",
     "type_code": "asset"
   },

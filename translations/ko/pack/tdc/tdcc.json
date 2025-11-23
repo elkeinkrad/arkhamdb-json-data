@@ -33,7 +33,7 @@
         "code": "11504b",
         "name": "Hibb's Roadhouse",
         "text": "Easttown is connected to Hibb's Roadhouse.\n<b>Revelation</b> - Put Hibb's Roadhouse into play. Spawn the set-aside Sadie Sheldon enemy at Hibb's Roadhouse. Add the set-aside act 2a - \"The Sheldon Gang\" and act 3a - \"Face the Music\" to the act deck, then advance to act 2a.",
-        "traits": "Arkham. Front."
+        "traits": "아컴. Front."
     },
     {
         "code": "11505",
@@ -45,7 +45,7 @@
         "code": "11505b",
         "name": "La Bella Luna",
         "text": "Downtown is connected to La Bella Luna.\n<b>Revelation</b> - Put La Bella Luna into play. Spawn the set-aside Naomi O'Bannion enemy at La Bella Luna. Add the set-aside act 2a - \"The O'Bannion Gang\" and act 3a - \"Face the Music\" to the act deck, then advance to act 2a.",
-        "traits": "Arkham. Front."
+        "traits": "아컴. Front."
     },
     {
         "code": "11506",
@@ -87,44 +87,44 @@
         "name": "Sadie Sheldon",
         "subname": "Runs this Town",
         "text": "Retaliate.\nSadie Sheldon cannot move and gets +1 [per_investigator] health.\nSadie Sheldon gets +1 fight for each damage on her (to a maximum of +3 fight).",
-        "traits": "Humanoid. Criminal. Syndicate. Elite."
+        "traits": "인간형. 범죄자. 조직원. 정예."
     },
     {
         "code": "11511",
         "name": "Naomi O'Bannion",
         "subname": "Just Doing Business",
         "text": "Alert.\nNaomi O'Bannion cannot move and gets +1 [per_investigator] health.\n<b>Forced</b> - The first time Naomi O'Bannion is evaded each round: Ready her. Any investigator at her location may take 1 damage to prevent this.",
-        "traits": "Humanoid. Criminal. Syndicate. Elite."
+        "traits": "인간형. 범죄자. 조직원. 정예."
     },
     {
         "code": "11512",
         "flavor": "\"Don't go stickin' your nose where it don't belong, pal!\"",
         "name": "Gang Soldier",
-        "traits": "Humanoid. Criminal. Syndicate."
+        "traits": "인간형. 범죄자. 조직원."
     },
     {
         "code": "11513",
         "name": "Gang Enforcer",
         "text": "Hunter.\n<b>Prey</b> - Most clues.\n<b>Forced</b> - The first time each round an investigator at this enemy's location attacks another [[Criminal]] enemy: Gang Enforcer readies and attacks that investigator.",
-        "traits": "Humanoid. Criminal. Syndicate."
+        "traits": "인간형. 범죄자. 조직원."
     },
     {
         "code": "11514",
         "name": "Gang Informant",
         "text": "Aloof.\n<b>Spawn</b> - Nearest [[Arkham]] location with clues.\n<b>Forced</b> - After an investigator at Gang Informant's location discovers 1 or more clues while this enemy is ready: That investigator must either spend 3 resources or place 1 doom on the current agenda.",
-        "traits": "Humanoid. Criminal. Syndicate."
+        "traits": "인간형. 범죄자. 조직원."
     },
     {
         "code": "11515",
         "name": "Caught in the Crossfire",
         "text": "<b>Revelation</b> - Put Caught in the Crossfire into play in your threat area.\n<b>Forced</b> - When damage is dealt to a [[Criminal]] enemy at your location: Test [intellect] or [agility] (3). If you fail, reduce the damage dealt to that enemy by 1 and take 1 direct damage. Discard Caught in the Crossfire.",
-        "traits": "Hazard."
+        "traits": "위기."
     },
     {
         "code": "11516",
         "name": "End of Negotiations",
         "text": "<b>Revelation</b> - Attach End of Negotiations to the nearest [[Criminal]] enemy. Limit 1 per enemy. If you cannot, End of Negotiations gains surge.\n<b>Forced</b> - After an investigator parleys at this location: Attached enemy attacks that investigator.\n[action]: Test [willpower] (3). If you succeed, discard this card.",
-        "traits": "Blunder."
+        "traits": "실수."
     },
     {
         "code": "11517",
@@ -257,7 +257,7 @@
         "flavor": "[tdc_rune_d] · [tdc_rune_s][tdc_rune_k][tdc_rune_u][tdc_rune_x][tdc_rune_s][tdc_rune_z] · [tdc_rune_x][tdc_rune_a] · [tdc_rune_c][tdc_rune_b][tdc_rune_k] · [tdc_rune_d][tdc_rune_f][tdc_rune_u][tdc_rune_m][tdc_rune_k][tdc_rune_f][tdc_rune_c] · [tdc_rune_g][tdc_rune_d][tdc_rune_s]",
         "name": "Seafloor Frieze [tdc_rune_w]",
         "text": "<b>Revelation</b> - Attach Seafloor Frieze [tdc_rune_w] to your location. Cannot be canceled.\nSeafloor Frieze [tdc_rune_w] cannot leave play.\n[action]: Test [combat] (2), then test [willpower] (2). If you succeed at both tests, flip this card and resolve its text.",
-        "traits": "Evidence. Glyph."
+        "traits": "증거. Glyph."
     },
     {
         "code": "11531b",
@@ -280,13 +280,13 @@
         "code": "11533",
         "name": "Deep One Matron",
         "text": "Hunter.\n<b>Spawn</b> - Any revealed location (Drowned Shanty, if able).\n<b>Forced</b> - When Deep One Matron enters play: Search the encounter deck and discard pile for a [[Deep One]] enemy and spawn it at this location.",
-        "traits": "Humanoid. Monster. Deep One."
+        "traits": "인간형. 괴물. 심해인."
     },
     {
         "code": "11534",
         "name": "\"Look Out!\"",
         "text": "<b>Revelation</b> - Test [intellect] (3). If you fail, put \"Look Out!\" into play in your threat area.\n<b>Forced</b> - The first time you enter a flooded location each round: Take 1 horror.\n<b>Forced</b> - At the end of your turn: Test [agility] (3). If you succeed, discard \"Look Out!\"",
-        "traits": "Terror."
+        "traits": "두려움."
     },
     {
         "code": "11535",
@@ -311,7 +311,7 @@
         "name": "Seafloor Leviathan",
         "subname": "Giant Aquatic Medusoid",
         "text": "Massive. Patrol (nearest unflooded or partially flooded location). <b>Spawn</b> - Barrier Core.\nSeafloor Leviathan gets +3 [per_investigator] health.\n<b>Forced</b> - When the enemy phase begins, if this enemy is ready: Increase the flood level of its location.",
-        "traits": "Monster. Abomination. Elite."
+        "traits": "괴물. 흉물. 정예."
     },
     {
         "code": "11538",
@@ -335,14 +335,14 @@
         "name": "Barrier Core",
         "subname": "Inactive",
         "text": "<b>Forced</b> - If 6 or more [[Seafloor]] locations are revealed and not flooded: Flip Barrier Core.\n[action] Decrease the flood level of Barrier Core and choose an adjacent eligible location: Increase the flood level of the chosen location. Then, place 3 [per_investigator] clues on it. (Group limit once per round.)",
-        "traits": "Seafloor. Central."
+        "traits": "Seafloor. 중심부."
     },
     {
         "code": "11540b",
         "name": "Barrier Core",
         "subname": "Active",
         "text": "<b>Forced</b> - If there are 5 or fewer unflooded [[Seafloor]] locations: Flip Barrier Core.\n[action] Spend 2 [per_investigator] clues, as a group: Put the set-aside Barrier Node story asset into play under your control.",
-        "traits": "Seafloor. Central."
+        "traits": "Seafloor. 중심부."
     },
     {
         "code": "11541",
@@ -427,7 +427,7 @@
         "code": "11549",
         "name": "Undersea Parasite [tdc_rune_x]",
         "text": "Aloof. Retaliate.\n<b>Forced</b> - After Undersea Parasite [tdc_rune_x] attacks you: Flip this card and resolve its text.\n<b>Forced</b> - When Undersea Parasite [tdc_rune_x] would leave play: Flip this card and resolve its text.",
-        "traits": "Monster. Glyph. Elite."
+        "traits": "괴물. Glyph. 정예."
     },
     {
         "code": "11549b",
@@ -451,7 +451,7 @@
         "flavor": "Not your average jellyfish.",
         "name": "Medusa",
         "text": "Aloof. Patrol (nearest unflooded or partially flooded location).\n<b>Forced</b> - When the enemy phase begins, if Medusa is ready: Increase the flood level of its location. If you cannot, place 1 doom on Medusa.",
-        "traits": "Monster."
+        "traits": "괴물."
     },
     {
         "code": "11552",
@@ -513,14 +513,14 @@
         "name": "Apiary Entrance",
         "subname": "Beckoning Light",
         "text": "[action] Spend 1 [per_investigator] clues, as a group: Shuffle each location in the encounter discard pile into the bottom 10 cards of the encounter deck.\n[fast]: Choose the farthest location from Apiary Entrance. Place clues on the chosen location up to its clue value. (Limit once per round.)\n[action]: <b>Resign.</b> You make your exit.",
-        "traits": "Apiary. Central."
+        "traits": "Apiary. 중심부."
     },
     {
         "code": "11559b",
         "name": "Apiary Entrance",
         "subname": "Dangerous Exit",
         "text": "When a [[Stowaway]] enemy is drawn, spawn it at Apiary Entrance instead of its normal spawn location.\n[action] Spend 1 [per_investigator] clues, as a group: Place a [[Cultist]] asset or enemy at this location underneath the act.\n[action]: <b>Resign.</b> You make your exit.",
-        "traits": "Apiary. Central."
+        "traits": "Apiary. 중심부."
     },
     {
         "code": "11560",
@@ -571,14 +571,14 @@
         "flavor": "The camp is seemingly abandoned, strewn with dishware and tattered tents. Perhaps there are survivors hiding nearby.",
         "name": "Lost Campsite",
         "text": "<b>Revelation</b> - Put Lost Campsite into play.\n[action]: Draw the topmost card beneath Lost Campsite.",
-        "traits": "Apiary. Enclave. Sanctum."
+        "traits": "Apiary. Enclave. 성소."
     },
     {
         "code": "11568",
         "name": "Maria Rivera",
         "subname": "Lost Pilgrim",
         "text": "When damage would be placed on a [[Cultist]] enemy at your location, place it on Maria Rivera instead.\n[reaction] When doom would be placed on a [[Cultist]] enemy, exhaust Maria Rivera: Place it on Maria Rivera instead, as damage.\n<b>Forced</b> - If Maria Rivera is defeated: Add her to the victory display.",
-        "traits": "Ally. Cultist."
+        "traits": "조력자. 추종자."
     },
     {
         "code": "11569",
@@ -597,13 +597,13 @@
         "flavor": "The acidic vapors digest anything inside the chamber, including flesh and metal.",
         "name": "Acidic Coelom",
         "text": "<b>Revelation</b> - Put Acidic Coelom into play.\nAs an additional cost to move from Acidic Coelom to Apiary Entrance, you must take 1 damage.",
-        "traits": "Apiary. Nest. Sanctum."
+        "traits": "Apiary. Nest. 성소."
     },
     {
         "code": "11572",
         "name": "Central Chamber",
         "text": "Central Chamber is connected to the location below it <i>(bordering its bottom edge)</i> and vice versa.\n<b>Forced</b> - When your turn ends, if you are at this location: Test [agility] (1). If you fail, you must either move to a connecting location or Mother attacks you.",
-        "traits": "Apiary. Nest. Central.",
+        "traits": "Apiary. Nest. 중심부.",
         "back_flavor": "A rhythmic thud reverberates through the walls of the chamber like a heartbeat.",
         "back_text": "Central Chamber is connected to the location below it <i>(bordering its bottom edge)</i> and vice versa."
     },
@@ -611,38 +611,38 @@
         "code": "11573",
         "name": "Mother",
         "text": "Massive. Relentless.\n<b>Forced</b> - When another [[Stowaway]] enemy is defeated: Move all damage on that enemy to Mother. (If that enemy had doom on it, shuffle that enemy into the encounter deck as well.)",
-        "traits": "Abomination. Stowaway. Elite."
+        "traits": "흉물. Stowaway. 정예."
     },
     {
         "code": "11574",
         "name": "Grotesque Amalgam",
         "text": "Hunter. Retaliate.\n<b>Forced</b> - After you fight this enemy using a [[Weapon]] asset: Place 1 doom on that asset.",
-        "traits": "Monster. Stowaway."
+        "traits": "괴물. Stowaway."
     },
     {
         "code": "11575",
         "name": "Apiary Tender",
         "text": "Aloof. Hunter.\n<b>Prey</b> - Lowest [agility].\n<b>Forced</b> - When doom is placed on a card at this location: Ready Apiary Tender. It loses aloof until the end of the round. If it is engaged with an investigator, it makes an immediate attack.",
-        "traits": "Monster. Stowaway."
+        "traits": "괴물. Stowaway."
     },
     {
         "code": "11576",
         "name": "Hungry Walls",
         "text": "<b>Revelation</b> - Attach this card to your location.\n<b>Forced</b> - When you leave attached location: Test [agility] (4) or [combat] (4). If you fail and you tested...\n- ...[agility], discard an asset you control and take 1 damage. Discard Hungry Walls.\n- ...[combat], take 2 direct damage. Discard Hungry Walls.",
-        "traits": "Hazard."
+        "traits": "위기."
     },
     {
         "code": "11577",
         "name": "Dangerous Curiosity",
         "text": "<b>Revelation</b> - Test [willpower] (X), where X is your location's shroud value. If you fail, take 1 damage and discard cards from the top of the encounter deck until a [[Stowaway]] enemy is discarded and draw it. Shuffle each location discarded by this effect back into the encounter deck.",
-        "traits": "Blunder."
+        "traits": "실수."
     },
     {
         "code": "11578",
         "flavor": "What is that moving inside?",
         "name": "Alien Eggs",
         "text": "Surge.\n<b>Revelation</b> - Place 1 doom on the nearest non-[[Elite]] enemy with no doom on it.",
-        "traits": "Hazard."
+        "traits": "위기."
     },
     {
         "code": "11579",
@@ -659,7 +659,7 @@
         "code": "11580",
         "name": "Squamous Parasite [tdc_rune_t]",
         "text": "Retaliate.\nIf Squamous Parasite [tdc_rune_t] would leave play, set it aside, out of play.\n<b>Forced</b> - When you defeat Squamous Parasite [tdc_rune_t]: Flip this enemy and resolve its text.",
-        "traits": "Monster. Glyph."
+        "traits": "괴물. Glyph."
     },
     {
         "code": "11580b",
@@ -763,7 +763,7 @@
         "name": "Core of the Vault",
         "subname": "Heart of the Machine",
         "text": "Core of the Vault cannot be flooded.\n<b>Forced</b> - If The Inescapable is defeated at this location: Search all in- and out-of-play areas for each copy of Still Behind You and remove them from the game. In your Campaign Log, record <i>the creature was defeated.</i>\n[action] [action] Spend 3 [per_investigator] clues, as a group: You study the machine. Proceed to <b>Scenario Interlude: The Vault Core</b> <i>(page 26)</i>.",
-        "traits": "R'lyeh. Sanctum. Glyph.",
+        "traits": "R'lyeh. 성소. Glyph.",
         "back_flavor": "The heart of the great vault is a massive, sealed chamber filled with alien glyphs and bizarre machinery.",
         "back_text": "Core of the Vault cannot be flooded and investigators cannot move into it.\n<b>Forced</b> - At the end of the round, if each [[Vault]] location has been activated: Reveal Core of the Vault."
     },
@@ -842,19 +842,19 @@
         "name": "Slitherer in Darkness",
         "subname": "Lurker From Below",
         "text": "<b>Spawn</b> - Nearest flooded location.\nSlitherer in Darkness cannot enter unflooded locations.\n<b>Forced</b> - When the enemy phase begins, if there are no investigators at this enemy's location: This enemy attacks the investigator with the lowest [combat] at a connecting location. If no attack was made, Slitherer in Darkness moves to the flooded location nearest the Moving Platform.",
-        "traits": "Monster. Stowaway. Elite."
+        "traits": "괴물. Stowaway. 정예."
     },
     {
         "code": "11606",
         "name": "Vault Attendant",
         "text": "Hunter.\n<b>Spawn</b> - Engaged with prey.\n<b>Prey</b> - Most clues.\nWhen Vault Attendant moves via its hunter keyword, its location is considered to be connected to each activated location.",
-        "traits": "Monster. Keeper."
+        "traits": "괴물. Keeper."
     },
     {
         "code": "11607",
         "name": "Deadly Mechanisms",
         "text": "<b>Revelation</b> - Test [willpower] (3). If you fail, you must decide (choose one; choose two instead if it is act 2):\n- Deactivate the nearest activated [[Vault]] location.\n- Draw 1 of the set-aside Vault Attendant enemies.\n- Move to an adjacent location (flooded if able).",
-        "traits": "Hazard"
+        "traits": "위기."
     },
     {
         "code": "11608",
@@ -1004,7 +1004,7 @@
         "name": "Ring Library",
         "subname": "Archive of the Stars",
         "text": "[reaction] When you discard 1 or more cards from the top of the encounter deck, choose and discard 1 card from your hand: Discard 2 additional cards from the top of the encounter deck.\n[action]: <b>Move.</b> Move to a revealed [[Passageway]] location.",
-        "traits": "R'lyeh. Passageway.",
+        "traits": "R'lyeh. 통로.",
         "back_name": "Crumbling Archives",
         "back_flavor": "The pathways wind and twist, making it impossible to navigate the crumbling structure. It would appear that the lift platform in the tower's center is the only way up or down."
     },
@@ -1022,7 +1022,7 @@
         "name": "Lofty Walkway",
         "subname": "Archive of Dreams",
         "text": "This location gets -1 shroud for each [[Glyph]] card in the victory display.\n<b>Forced</b> - When this location is revealed: Spawn the set-aside Star Spawn Observer at this location.\n[action]: <b>Move.</b> Move to a revealed [[Passageway]] location.",
-        "traits": "R'lyeh. Passageway.",
+        "traits": "R'lyeh. 통로.",
         "back_name": "Crumbling Archives",
         "back_flavor": "The pathways wind and twist, making it impossible to navigate the crumbling structure. It would appear that the lift platform in the tower's center is the only way up or down."
     },
@@ -1040,7 +1040,7 @@
         "name": "Luminous Archives",
         "subname": "Archive of History",
         "text": "Luminous Archives gets +1 shroud for each [[Glyph]] card at or attached to it.\n[fast] Spend X actions (to a minimum of 1): Search the encounter discard pile for up to X [[Glyph]] cards and draw them, one at a time.\n[action]: <b>Move.</b> Move to a revealed [[Passageway]] location.",
-        "traits": "R'lyeh. Passageway.",
+        "traits": "R'lyeh. 통로.",
         "back_name": "Crumbling Archives",
         "back_flavor": "The pathways wind and twist, making it impossible to navigate the crumbling structure. It would appear that the lift platform in the tower's center is the only way up or down."
     },
@@ -1058,14 +1058,14 @@
         "name": "Court Keeper [tdc_rune_k]",
         "subname": "Observer of Dreams",
         "text": "If the investigators have translated 10 or more glyphs, this enemy gains relentless.\n<b>Forced</b> - When you defeat this enemy, discover this glyph:\n[tdc_rune_k]\nIn your Campaign Log, record \"Dreams\" under [tdc_rune_k] on the glyph record. This glyph has been translated.",
-        "traits": "Monster. Keeper. Glyph. Elite."
+        "traits": "괴물. Keeper. Glyph. 정예."
     },
     {
         "code": "11631",
         "name": "Court Keeper [tdc_rune_j]",
         "subname": "Weaver of Nightmares",
         "text": "If the investigators have translated 10 or more glyphs, this enemy gains alert and retaliate.\n<b>Forced</b> - When you defeat this enemy, discover this glyph:\n[tdc_rune_j]\nIn your Campaign Log, record \"Sleep\" under [tdc_rune_j] on the glyph record. This glyph has been translated.",
-        "traits": "Monster. Keeper. Glyph. Elite."
+        "traits": "괴물. Keeper. Glyph. 정예."
     },
     {
         "code": "11632",
@@ -1090,19 +1090,19 @@
         "name": "Colossal Tyrant",
         "subname": "Trapped in the Tower",
         "text": "Massive.\nColossal Tyrant gets +3 [per_investigator] health and cannot move.\n<b>Forced</b> - When the enemy phase ends, if there are no investigators at Colossal Tyrant's location: Deal 1 direct horror to each card with sanity at each adjacent location.",
-        "traits": "Monster. Abomination. Elite."
+        "traits": "괴물. 흉물. 정예."
     },
     {
         "code": "11636",
         "name": "Cosmic Omen",
         "text": "<b>Revelation</b> - Test [willpower] (3). If the investigators have translated 10 or more glyphs, this test gets +2 difficulty. If you fail, you must either shuffle one [[Glyph]] card in play into the encounter deck, or take 1 direct horror and discard 1 card at random from your hand.",
-        "traits": "Omen. Power."
+        "traits": "징조. 권능."
     },
     {
         "code": "11637",
         "name": "Winged Keeper",
         "text": "Alert.\n<b>Spawn</b> - Highest level with no investigators.\n<b>Prey</b> - Lowest [agility].\n<b>Forced</b> - When the enemy phase begins, if this enemy is ready and unengaged: It moves to its prey's location.",
-        "traits": "Monster. Keeper."
+        "traits": "괴물. Keeper."
     },
     {
         "code": "11638",
@@ -1196,14 +1196,14 @@
         "code": "11648",
         "name": "R'lyeh Streets",
         "text": "R'lyeh Streets cannot be moved or leave play.\n[action] Spend 1-3 resources: Place that many clues <i>(from the token pool)</i> on any revealed location (Limit once per round.)",
-        "traits": "R'lyeh. Central.",
+        "traits": "R'lyeh. 중심부.",
         "back_flavor": "Fetid seawater pools in the ancient streets, stinking of dead fish and rotten detritus. There is a funereal air in the sleeping city: a feeling of deep loss and dread."
     },
     {
         "code": "11649",
         "name": "Central Spire",
         "text": "Central Spire cannot be moved or leave play.\n[action] Spend 1-3 resources: Place that many clues <i>(from the token pool)</i> on any revealed location (Limit once per round.)",
-        "traits": "R'lyeh. Central.",
+        "traits": "R'lyeh. 중심부.",
         "back_name": "Summit",
         "back_flavor": "The sprawling skyline is as beautiful as it is terrifying.",
         "back_text": "<b>Forced</b> - When you would enter this location, if you do not control the Obsidian Claw: You must either spend 1 clue or test [agility] (2). If you fail, cancel the effects of the move."
@@ -1212,7 +1212,7 @@
         "code": "11650",
         "name": "Floating Spire",
         "text": "Floating Spire cannot be moved or leave play.\n[action] Spend 1-3 resources: Place that many clues <i>(from the token pool)</i> on any revealed location (Limit once per round.)",
-        "traits": "R'lyeh. Central.",
+        "traits": "R'lyeh. 중심부.",
         "back_name": "Summit",
         "back_flavor": "The sprawling skyline is as beautiful as it is terrifying.",
         "back_text": "<b>Forced</b> - When you would enter this location, if you do not control the Obsidian Claw: You must either spend 1 clue or test [agility] (2). If you fail, cancel the effects of the move."
@@ -1221,7 +1221,7 @@
         "code": "11651",
         "name": "Western Wall",
         "text": "Western Wall cannot be moved or leave play.\n<b>Forced</b> - After you reveal this location: Draw the set-aside Eroded Frieze [tdc_rune_e] treachery.\n[action]: <b>Resign.</b> You clamber down.",
-        "traits": "R'lyeh. Central.",
+        "traits": "R'lyeh. 중심부.",
         "back_name": "Summit",
         "back_flavor": "The sprawling skyline is as beautiful as it is terrifying.",
         "back_text": "<b>Forced</b> - When you would enter this location, if you do not control the Obsidian Claw: You must either spend 1 clue or test [agility] (2). If you fail, cancel the effects of the move."
@@ -1230,7 +1230,7 @@
         "code": "11652",
         "name": "Ancient Dome",
         "text": "Ancient Dome cannot be moved or leave play.\n<b>Forced</b> - After you reveal this location: Draw the set-aside Eroded Frieze [tdc_rune_e] treachery.\n[action]: <b>Resign.</b> You clamber down.",
-        "traits": "R'lyeh. Central.",
+        "traits": "R'lyeh. 중심부.",
         "back_name": "Summit",
         "back_flavor": "The sprawling skyline is as beautiful as it is terrifying.",
         "back_text": "<b>Forced</b> - When you would enter this location, if you do not control the Obsidian Claw: You must either spend 1 clue or test [agility] (2). If you fail, cancel the effects of the move."
@@ -1345,7 +1345,7 @@
         "code": "11664",
         "name": "Eroded Frieze [tdc_rune_e]",
         "text": "<b>Revelation</b> - Attach Eroded Frieze [tdc_rune_e] to your location. Cannot be canceled. If Eroded Frieze [tdc_rune_e] would leave play, set it aside, out of play.\n[action]: Test [combat] or [intellect] (3). If you fail, take 1 damage. Otherwise, put 1 resource on this card. If there are 1 [per_investigator] resources on Eroded Frieze [tdc_rune_e], flip it and resolve its text.",
-        "traits": "Evidence. Glyph."
+        "traits": "증거. Glyph."
     },
     {
         "code": "11664b",
@@ -1357,38 +1357,38 @@
         "code": "11665",
         "name": "St. Elmo's Fire",
         "text": "<b>Revelation</b> - Attach St. Elmo's Fire to the nearest location without St. Elmo's Fire attached.\n<b>Forced</b> - When the round ends: Each investigator at this location takes 1 damage. Attach St. Elmo's Fire to an adjacent location (with investigators, if able).",
-        "traits": "Hazard."
+        "traits": "위기."
     },
     {
         "code": "11666",
         "flavor": "You shouldn't have looked down.",
         "name": "Acrophobia",
         "text": "<b>Revelation</b> - Test [willpower] (1). This test gets +1 difficulty for each open sky adjacent to your location. For each point you fail by, you must either lose 1 action or take 1 horror.",
-        "traits": "Terror."
+        "traits": "두려움."
     },
     {
         "code": "11667",
         "name": "Wings of Terror",
         "text": "<b>Revelation</b> - Put Wings of Terror into play in your threat area.\n<b>Forced</b> - After you fail a skill test: Discard cards from the top of the encounter deck until an enemy is discarded. Either draw that enemy, or that enemy attacks you (from the discard pile). Then, discard Wings of Terror.",
-        "traits": "Scheme. Terror."
+        "traits": "모략. 두려움."
     },
     {
         "code": "11669",
         "name": "Lost in the Clouds",
         "text": "Peril.\n<b>Revelation</b> - You must decide (choose one):\n- Place 1 doom on the current agenda. This effect can cause the current agenda to advance.\n- Each investigator takes 2 direct horror.\n- Resolve the <b>Forced</b> effect on the Eastern Winds/Western Winds story card as if you had drawn a non-[elder_sign] symbol token.",
-        "traits": "Blunder."
+        "traits": "실수."
     },
     {
         "code": "11670",
         "name": "Primeval Terror",
         "text": "Patrol (nearest empty [[Summit]] location).\nCannot make attacks of opportunity.\nWhile engaged with this enemy, you may enter open sky as if it were a location. If you defeat or disengage from this enemy while at open sky, you are defeated and suffer 1 physical trauma.",
-        "traits": "Monster."
+        "traits": "괴물."
     },
     {
         "code": "11671",
         "name": "Star Vampire",
         "text": "Hunter. Relentless.\n<b>Prey</b> - Most remaining health.\n<b>Forced</b> - After this enemy attacks: Heal 1 damage from it.",
-        "traits": "Monster. Abomination."
+        "traits": "괴물. 흉물."
     },
     {
         "code": "11672a",
@@ -1420,7 +1420,7 @@
         "name": "Cthulhu",
         "subname": "Dead and Dreaming",
         "text": "Hunter. Massive. Relentless.\n<b>Spawn</b> - Dreamer's Rest.\n<b>Forced</b> - After Cthulhu is evaded: Either ready him, or each investigator at Cthulhu's location takes 1 direct damage.",
-        "traits": "Ancient One. Elite."
+        "traits": "고대의 존재. 정예."
     },
     {
         "code": "11675",
@@ -1435,7 +1435,7 @@
         "flavor": "There is something unsettling about the still black water.",
         "name": "Dreamer's Rest",
         "text": "<b>Forced</b> - After an investigator fails a test at this location: Place 1 resource on the scenario reference card, as Disturbance.",
-        "traits": "R'lyeh. Lair.",
+        "traits": "R'lyeh. 침소.",
         "back_flavor": "\"In his house at R'lyeh, dead Cthulhu waits dreaming.\" - H.P. Lovecraft, \"The Call of Cthulhu\""
     },
     {
@@ -1506,7 +1506,7 @@
         "name": "Tillinghast Esoterica",
         "subname": "Ephemeral Shop",
         "text": "<b>Revelation</b> - Put Tillinghast Esoterica into play adjacent to your location and spawn the set-aside Randall Tillinghast at it. Shuffle each set-aside [[Artifact]] asset and place them underneath it as a stack. \nTillinghast Esoterica is connected to the location from which it was drawn, and vice versa. \n[free]: Place clues on this location up to its clue value.",
-        "traits": "Sanctum. Extradimensional."
+        "traits": "성소. 초차원."
     },
     {
         "code": "11686",
@@ -1514,7 +1514,7 @@
         "name": "Randall Tillinghast",
         "subname": "Out for Your Blood",
         "text": "Relentless. Retaliate. \nRandall Tillinghast cannot move and gets +1 fight and +1[per_investigator] health for each card beneath Tillinghast Esoterica.",
-        "traits": "Humanoid. Sorcerer. Elite."
+        "traits": "인간형. 주술사. 정예."
     },
     {
         "code": "11687",
@@ -1577,7 +1577,7 @@
         "name": "Northside",
         "subname": "Ruined",
         "text": "Northside cannot be fully flooded.\n[action]: Test [willpower] (3). If you succeed, reveal the top 3 cards of the Cthulhu deck. You may discard 1 of them and place the rest back on top in any order. (Group limit once per round.)",
-        "traits": "Arkham. Ruined.",
+        "traits": "아컴. Ruined.",
         "back_flavor": "Wrecked trains are scattered and askew on the tracks like a child's toys. A handful of factory workers emerge, dazed and frightened, to look up at the hulking form destroying their home.",
         "back_text": "Northside cannot be fully flooded."
     },
@@ -1587,7 +1587,7 @@
         "name": "Downtown",
         "subname": "Ruined",
         "text": "[reaction] When a [[Star Spawn]] enemy enters Downtown, spend 3 resources: Automatically evade that enemy.",
-        "traits": "Arkham. Ruined.",
+        "traits": "아컴. Ruined.",
         "back_flavor": "The rising fog lends the once-bustling streets an eerie calm. Behind closed doors, citizens lie in unnatural slumber, oblivious to the destruction unfolding outside."
     },
     {
@@ -1595,7 +1595,7 @@
         "name": "Easttown",
         "subname": "Ruined",
         "text": "Easttown cannot be fully flooded.\n[action] Discard an [[Ally]] asset you control: Decrease this location's flood level and draw 3 cards. (Group limit once per game.)",
-        "traits": "Arkham. Ruined.",
+        "traits": "아컴. Ruined.",
         "back_flavor": "Easttown is filled with the sound of hungry flames and the cries of the injured and the dying.",
         "back_text": "Easttown cannot be fully flooded."
     },
@@ -1604,7 +1604,7 @@
         "name": "Miskatonic University",
         "subname": "Ruined",
         "text": "Miskatonic University cannot be fully flooded.\n[action] Choose and discard up to 3 cards with [intellect] icons from your hand: For each card discarded in this way, heal 1 horror from an investigator or [[Ally]] asset at Miskatonic University. (Limit once per game.)",
-        "traits": "Arkham. Ruined.",
+        "traits": "아컴. Ruined.",
         "back_flavor": "Dark water invades every corner of the prestigious institution, drowning out decades of research and ruining countless precious tomes.",
         "back_text": "Miskatonic University cannot be fully flooded."
     },
@@ -1613,7 +1613,7 @@
         "name": "Rivertown",
         "subname": "Ruined",
         "text": "[action]: Test [agility] (3) or [intellect] (3) to attempt to open the emergency drain. If you succeed, decrease the flood level of this or an adjacent location. (Group limit once per game.)",
-        "traits": "Arkham. Central. Ruined.",
+        "traits": "아컴. 중심부. Ruined.",
         "back_flavor": "The docks along the river have been completely swept away. Only flooded warehouses and abandoned shops remain."
     },
     {
@@ -1621,7 +1621,7 @@
         "name": "St. Mary's Hospital",
         "subname": "Ruined",
         "text": "St. Mary's Hospital cannot be fully flooded.\n[reaction] After Cthulhu enters St. Mary's Hospital: Place up to 3 of your clues on this location. For each clue placed in this way, deal 1 damage to an enemy at this location. (Group limit once per game.)",
-        "traits": "Arkham. Ruined.",
+        "traits": "아컴. Ruined.",
         "back_flavor": "The raging fires threaten the hundreds of ailing patients in St. Mary's eastern ward. The few brave nurses and doctors who have not succumbed to the strange sleeping sickness work through the night to keep their patients safe.",
         "back_text": "St. Mary's Hospital cannot be fully flooded."
     },
@@ -1631,21 +1631,21 @@
         "name": "Southside",
         "subname": "Ruined",
         "text": "[action] Choose an [[Item]] asset in your discard pile and add it to your hand. (Group limit once per game.)",
-        "traits": "Arkham. Ruined.",
+        "traits": "아컴. Ruined.",
         "back_flavor": "The neighborhood's dense infrastructure makes it an easy target. Burning buildings cast flickering shadows on the flooded streets."
     },
     {
         "code": "11699",
         "name": "Western Rooftops",
         "text": "Western Rooftops cannot be flooded and sigils cannot be placed on it.\nNorthside, Miskatonic University, and St. Mary's Hospital are connected to Western Rooftops, and vice versa.\nWhile you are at Western Rooftops, you may fight and evade enemies at connecting locations as if you were at their location.",
-        "traits": "Arkham. Rooftop.",
+        "traits": "아컴. Rooftop.",
         "back_text": "As an additional cost to enter Western Rooftops, you must spend 1 [per_investigator] clues, as a group.\nWestern Rooftops cannot be flooded.\nNorthside, Miskatonic University, and St. Mary's Hospital are connected to Western Rooftops, and vice versa."
     },
     {
         "code": "11700",
         "name": "Eastern Rooftops",
         "text": "Eastern Rooftops cannot be flooded and sigils cannot be placed on it.\nEasttown, Rivertown, and Southside are connected to Eastern Rooftops, and vice versa.\nWhile you are at Eastern Rooftops, you may fight and evade enemies at connecting locations as if you were at their location.",
-        "traits": "Arkham. Rooftop.",
+        "traits": "아컴. Rooftop.",
         "back_text": "As an additional cost to enter Eastern Rooftops, you must spend 1 [per_investigator] clues, as a group.\nEastern Rooftops cannot be flooded.\nEasttown, Rivertown, and Southside are connected to Eastern Rooftops, and vice versa."
     },
     {
@@ -1653,49 +1653,49 @@
         "name": "Cthulhu",
         "subname": "Ancient Evil",
         "text": "Each [[Cthulhu]] enemy on the Cthulhu Board shares this enemy's [[Traits]], text box, and location.\nMassive. Patrol (nearest location that can be flooded). Cannot make attacks of opportunity.",
-        "traits": "Ancient One. Elite."
+        "traits": "고대의 존재. 정예."
     },
     {
         "code": "11702",
         "name": "Cthulhu",
         "subname": "Hoary Wings",
         "text": "Alert. <b>Prey</b> - Highest [agility].\nX is Cthulhu's Rage. Cannot be damaged, defeated, or exhausted.\n[reaction] After you successfully fight or evade this enemy: Flip it to its [[Enraged]] side.",
-        "traits": "Cthulhu. Elite."
+        "traits": "Cthulhu. 정예."
     },
     {
         "code": "11702b",
         "name": "Cthulhu",
         "subname": "Hoary Wings",
         "text": "Alert. <b>Prey</b> - Highest [agility].\nX is Cthulhu's Rage. Cannot be exhausted.\n<b>Forced</b> - After you flip this enemy to this side: Draw the top card of the Cthulhu deck.\n[reaction] After you evade this enemy: Deal 1 damage to it.",
-        "traits": "Cthulhu. Enraged. Elite."
+        "traits": "Cthulhu. Enraged. 정예."
     },
     {
         "code": "11703",
         "name": "Cthulhu",
         "subname": "Fierce Visage",
         "text": "Alert. Retaliate. <b>Prey</b> - Highest [willpower].\nX is Cthulhu's Rage. Cannot be damaged, defeated, or exhausted.\n[reaction] After you successfully fight or evade this enemy: Flip it to its [[Enraged]] side.",
-        "traits": "Cthulhu. Elite."
+        "traits": "Cthulhu. 정예."
     },
     {
         "code": "11703b",
         "name": "Cthulhu",
         "subname": "Fierce Visage",
         "text": "Alert. Retaliate. <b>Prey</b> - Highest [willpower].\nX is Cthulhu's Rage. Cannot be exhausted.\n<b>Forced</b> - After you flip this enemy to this side: Discard 1 card at random from your hand.\n[reaction] After you evade this enemy: Deal 1 damage to it.",
-        "traits": "Cthulhu. Enraged. Elite."
+        "traits": "Cthulhu. Enraged. 정예."
     },
     {
         "code": "11704",
         "name": "Cthulhu",
         "subname": "Wicked Claw",
         "text": "Retaliate. <b>Prey</b> - Highest [combat].\nX is Cthulhu's Rage. Cannot be damaged, defeated, or exhausted.\n[reaction] After you successfully fight or evade this enemy: Flip it to its [[Enraged]] side.",
-        "traits": "Cthulhu. Elite."
+        "traits": "Cthulhu. 정예."
     },
     {
         "code": "11704b",
         "name": "Cthulhu",
         "subname": "Wicked Claw",
         "text": "Retaliate. <b>Prey</b> - Highest [combat].\nX is Cthulhu's Rage. Cannot be exhausted.\n<b>Forced</b> - After you flip this enemy to this side: Place 1 doom on it.\n[reaction] After you evade this enemy: Deal 1 damage to it.",
-        "traits": "Cthulhu. Enraged. Elite."
+        "traits": "Cthulhu. Enraged. 정예."
     },
     {
         "code": "11705",
@@ -1757,27 +1757,27 @@
         "flavor": "Arkham will never be the same. The ancient creature tosses trees, houses, and vehicles aside as if they were made of paper.",
         "name": "Lay Waste",
         "text": "<b>Revelation</b> - Test [agility] (X), where X is Cthulhu's Rage. If you fail, take 2 damage.",
-        "traits": "Hazard."
+        "traits": "위기."
     },
     {
         "code": "11717",
         "flavor": "[tdc_rune_m] · [tdc_rune_l][tdc_rune_k][tdc_rune_k] · [tdc_rune_h][tdc_rune_x][tdc_rune_n] · [tdc_rune_g][tdc_rune_m][tdc_rune_c][tdc_rune_b] · [tdc_rune_o][tdc_rune_h] · [tdc_rune_z][tdc_rune_s][tdc_rune_k][tdc_rune_d][tdc_rune_o][tdc_rune_m][tdc_rune_f][tdc_rune_e] · [tdc_rune_k][tdc_rune_h][tdc_rune_k]",
         "name": "Eyes of Y'ch'lecht",
         "text": "Peril.\n<b>Revelation</b> - Test [willpower] (X), where X is Cthulhu's Rage. If you fail, take 1 direct horror and discard 1 card at random from your hand.",
-        "traits": "Power."
+        "traits": "권능."
     },
     {
         "code": "11719",
         "name": "Gross Plasticity",
         "text": "Peril.\n<b>Revelation</b> - You must decide (choose one):\n- Place 1 doom on the current agenda. This effect can cause the agenda to advance.\n- Increase the flood level of your location.\n- Each investigator takes 1 damage or 1 horror.",
-        "traits": "Power."
+        "traits": "권능."
     },
     {
         "code": "11720",
         "flavor": "[tdc_rune_l][tdc_rune_n][tdc_rune_j][tdc_rune_o][tdc_rune_m][tdc_rune_c] · [tdc_rune_c][tdc_rune_x] · [tdc_rune_o][tdc_rune_h] · [tdc_rune_g][tdc_rune_m][tdc_rune_p][tdc_rune_p] · [tdc_rune_c][tdc_rune_b][tdc_rune_k][tdc_rune_s][tdc_rune_k] · [tdc_rune_m][tdc_rune_l] · [tdc_rune_f][tdc_rune_x] · [tdc_rune_k][tdc_rune_l][tdc_rune_u][tdc_rune_d][tdc_rune_q][tdc_rune_k]",
         "name": "Arkham Under Assault",
         "text": "<b>Revelation</b> - Each investigator tests [willpower] (X), where X is Cthulhu's Rage. If 1 or more investigators fail, draw the top card of the Cthulhu deck.",
-        "traits": "Scheme."
+        "traits": "모략."
     },
     {
         "code": "11721",
@@ -1941,13 +1941,13 @@
         "flavor": "A hunter perfectly adapted to the lightless deep.",
         "name": "Deep One Thrall",
         "text": "<b>Forced</b> - After Deep One Thrall engages you: Discard 1 card at random from your hand.",
-        "traits": "인간형. 괴물. Deep One."
+        "traits": "인간형. 괴물. 심해인."
     },
     {
         "code": "11747",
         "name": "Elder Deep One",
         "text": "Hunter. Retaliate.\nEach other [[Deep One]] enemy gains relentless.\n<b>Forced</b> - After Elder Deep One engages you: Heal 1 damage from each other [[Deep One]] enemy in play.",
-        "traits": "인간형. 괴물. Deep One."
+        "traits": "인간형. 괴물. 심해인."
     },
     {
         "code": "11748",

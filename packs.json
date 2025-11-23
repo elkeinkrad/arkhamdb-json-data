@@ -785,6 +785,14 @@
         "size": 3
     },
     {
+        "code": "enc",
+        "cycle_code": "parallel",
+        "date_release": "2025-10-29",
+        "name": "Enthralling Encore",
+        "position": 12,
+        "size": 11
+    },
+    {
         "code": "tmg",
         "cycle_code": "side_stories",
         "date_release": "2024-08-23",
@@ -799,5 +807,13 @@
         "name": "Aura of Faith",
         "position": 12,
         "size": 3
+    },
+    {
+        "code": "film_fatale",
+        "cycle_code": "side_stories",
+        "date_release": "2025-08-15",
+        "name": "Film Fatale",
+        "position": 12,
+        "size": 78
     }
 ]

@@ -12,6 +12,10 @@
         "name": "천 가지 무시무시한 형체"
     },
     {
+        "code": "abominable_contessa",
+        "name": "Abominable Contessa"
+    },
+    {
         "code": "abyssal_gifts",
         "name": "심연의 선물"
     },
@@ -224,6 +228,10 @@
         "name": "해적"
     },
     {
+        "code": "cosmic_journey",
+        "name": "Cosmic Journey"
+    },
+    {
         "code": "cosmic_legacy",
         "name": "Cosmic Legacy"
     },
@@ -388,6 +396,10 @@
         "name": "옛것"
     },
     {
+        "code": "enthralling_encore",
+        "name": "매혹적인 앙코르"
+    },
+    {
         "code": "epic_multiplayer",
         "name": "대규모 다인"
     },
@@ -432,6 +444,10 @@
         "name": "헴록 베일의 운명"
     },
     {
+        "code": "film_fatale",
+        "name": "Film Fatale"
+    },
+    {
         "code": "fire",
         "name": "불이야!"
     },
@@ -454,6 +470,10 @@
     {
         "code": "for_the_greater_good",
         "name": "대의를 위하여"
+    },
+    {
+        "code": "forgotten_island",
+        "name": "Forgotten Island"
     },
     {
         "code": "fortune_and_folly",
